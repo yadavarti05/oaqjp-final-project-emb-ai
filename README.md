@@ -1,1 +1,1 @@
-# Final project
+# Coursera Final Project: Emotion Detector
